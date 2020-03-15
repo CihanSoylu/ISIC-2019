@@ -6,7 +6,7 @@ appnope=0.1.0=py37_0
 astor=0.8.0=pypi_0
 attrs=19.1.0=py37_1
 backcall=0.1.0=py37_0
-bleach=3.1.0=py37_0
+bleach=3.1.1=py37_0
 ca-certificates=2019.5.15=1
 cairo=1.14.12=hc4e6be7_4
 certifi=2019.6.16=py37_1
