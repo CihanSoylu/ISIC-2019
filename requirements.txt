@@ -6,7 +6,7 @@ appnope=0.1.0=py37_0
 astor=0.8.0=pypi_0
 attrs=19.1.0=py37_1
 backcall=0.1.0=py37_0
-bleach=3.1.4
+bleach
 ca-certificates=2019.5.15=1
 cairo=1.14.12=hc4e6be7_4
 certifi=2019.6.16=py37_1
@@ -32,7 +32,7 @@ ipykernel=5.1.0=py37h39e3cac_0
 ipython=7.5.0=py37h39e3cac_0
 ipython_genutils=0.2.0=py37_0
 jedi=0.13.3=py37_0
-jinja2=2.10.1=py37_0
+jinja2
 joblib=0.13.2=pypi_0
 jpeg=9b=he5867d9_2
 jsonschema=3.0.1=py37_0
@@ -59,7 +59,7 @@ nb_conda_kernels=2.2.1=py37_0
 nbconvert=5.5.0=py_0
 nbformat=4.4.0=py37_0
 ncurses=6.1=h0a44026_1
-notebook=5.7.8=py37_0
+notebook
 numpy=1.16.4=pypi_0
 openssl=1.1.1=h1de35cc_0
 pandas=0.24.2=pypi_0
@@ -70,7 +70,7 @@ parso=0.4.0=py_0
 pcre=8.43=h0a44026_0
 pexpect=4.7.0=py37_0
 pickleshare=0.7.5=py37_0
-pillow=7.0.0=pypi_0
+pillow
 pip
 pixman=0.38.0=h1de35cc_0
 progress=1.5=pypi_0
@@ -80,7 +80,7 @@ protobuf=3.8.0=pypi_0
 ptyprocess=0.6.0=py37_0
 pydot=1.4.1=pypi_0
 pydotplus=2.0.2=pypi_0
-pygments=2.4.0=py_0
+pygments
 pyparsing=2.4.0=py_0
 pyrsistent=0.14.11=py37h1de35cc_0
 python=3.7.3=h359304d_0
@@ -96,7 +96,7 @@ setuptools=41.0.1=py37_0
 six=1.12.0=pypi_0
 sqlite=3.28.0=ha441bb4_0
 tb-nightly=1.14.0a20190301=pypi_0
-tensorflow=2.0.0a0=pypi_0
+tensorflow
 termcolor=1.1.0=pypi_0
 terminado=0.8.2=py37_0
 testpath=0.4.2=py37_0
